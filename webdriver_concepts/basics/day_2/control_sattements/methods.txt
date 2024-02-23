@@ -1,0 +1,10 @@
+
+control statements
+1. conditional statement
+    if, elif & else
+    
+2. Looping sataments 
+    for and while
+    
+3. Jumping satatements
+    break and continue
